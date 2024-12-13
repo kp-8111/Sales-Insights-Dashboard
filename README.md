@@ -1,5 +1,4 @@
-## 3. Sales Insights Dashboard
-[View Dashboard](https://project.novypro.com/VV6kg3)
+##  Sales Insights Dashboard
 
 ### Project Overview
 AtliQ Hardwares, a computer hardware business, faced challenges in scaling revenue in a competitive market. The sales director required real-time sales insights to inform strategic decisions.
@@ -18,3 +17,6 @@ Develop a dashboard for analyzing revenue growth, year-over-year (YOY) trends, a
 
 ### Outcome
 The insights provided by the dashboard enabled quick, data-informed decisions, potentially increasing revenue by 7% in the next quarter.
+
+## Link
+[View Dashboard](https://project.novypro.com/VV6kg3)
